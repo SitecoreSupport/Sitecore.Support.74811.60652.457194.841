@@ -24,3 +24,11 @@ To apply the patch perform the following steps:
 Sitecore Patch includes the following files:
 
 1. `\bin\Sitecore.Support.74811.60652.457194.841.dll`
+
+## License
+
+This patch is licensed under the [Sitecore Corporation A/S License](LICENSE).
+
+## Download
+
+Downloads are available via [GitHub Releases](https://github.com/SitecoreSupport/Sitecore.Support.74811.60652.457194.841/releases).
